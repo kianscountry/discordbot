@@ -1,0 +1,19 @@
+{
+  "name": "bot-1",
+  "version": "1.0.0",
+  "description": "This bot was made by {author}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kianscountry or kye",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
